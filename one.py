@@ -1,4 +1,3 @@
-# 
 
 # Step 1: Prompt the user to input two numbers
 number1 = 8
